@@ -1,47 +1,137 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Sushi Nishi Ya",
+  "tagline": "Counter sushi on Victory Boulevard in Glendale.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · VICTORY BLVD · SUSHI · OMAKASE · 115 REVIEWS",
+    "heading": "Victory Boulevard sushi counter.",
+    "subheading": "A counter-style sushi shop on Victory Boulevard in Glendale. Edomae nigiri made one piece at a time, sashimi cut to order, a short rotating special list driven by what came in that morning. Reservations recommended for the bar.",
+    "ctaText": "Reserve",
+    "ctaLink": "tel:8182442933",
+    "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "the counter",
+    "heading": "Counter. Itamae. Patience.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Sushi Nishi Ya is a small counter on Victory Boulevard in Glendale. Twelve seats at the bar, four tables, one itamae. The fish comes in fresh, the rice is seasoned twenty minutes before service, the wasabi is grated when you order omakase.",
+      "We do classic Edomae nigiri — bluefin tuna, salmon, yellowtail, sea bream, mackerel, sweet shrimp, eel, scallop. The omakase is twelve pieces, chef's selection, paced through the meal. Sashimi plates and a short list of cooked dishes round out the menu.",
+      "Open six days a week. Closed Monday. Reservations strongly recommended for the bar. The 115 reviews come from regulars who eat omakase here on date night and special occasions."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Omakase · 12 pieces",
+      "description": "Chef's selection, paced through the meal. Twelve nigiri, miso soup, hand roll to close. Bar seating only. Recommended.",
+      "price": "$78"
+    },
+    {
+      "title": "Nigiri Set · 8 pieces",
+      "description": "Eight pieces of seasonal nigiri, miso soup. The starter set for the curious. Daily selection.",
+      "price": "$42"
+    },
+    {
+      "title": "Sashimi Combo",
+      "description": "Twelve pieces of sashimi, three varieties, daikon, shiso, fresh wasabi. Daily catch driven.",
+      "price": "$48"
+    },
+    {
+      "title": "Hand Roll Combo",
+      "description": "Three hand rolls — spicy tuna, salmon avocado, yellowtail scallion — miso soup. Lighter sit-down option.",
+      "price": "$28"
+    },
+    {
+      "title": "Bento · Lunch",
+      "description": "Six pieces nigiri, sashimi salad, miso soup, rice, pickle. Lunch only, eleven to two-thirty.",
+      "price": "$24"
+    },
+    {
+      "title": "Chef's Tasting · 16 pieces",
+      "description": "Extended omakase — sixteen pieces, two cooked dishes, dessert. Two-hour reservation. Bar only.",
+      "price": "$120"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Tomoko I.",
+      "rating": 5,
+      "context": "Omakase regular",
+      "text": "Sushi Nishi Ya is the only sushi counter I trust in Glendale. The itamae actually pays attention to which piece goes when — soft fish first, fattier as you go, eel at the end. The rice is the right temperature. I sit at the bar every other Friday."
+    },
+    {
+      "name": "Brendan K.",
+      "rating": 4,
+      "context": "Date-night regular",
+      "text": "Took my wife for our anniversary — twelve-piece omakase, four pieces sashimi, hot sake, two hours at the bar. The bluefin otoro was the best piece of fish I've eaten in LA in five years. The chef was generous with explanation. We're regulars now."
+    },
+    {
+      "name": "Yumi P.",
+      "rating": 5,
+      "context": "Friend-of-the-counter",
+      "text": "Walk in solo any Thursday for the eight-piece set and a small bottle of sake. The same itamae, the same seat, the same uni when it's in. This is a counter-sushi shop, not a roll-shop, and it shows."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 244-2933",
+    "email": "hello@sushinishiya.com",
+    "address": "1712 Victory Blvd, Glendale, CA 91201",
+    "mapEmbedQuery": "Sushi Nishi Ya, 1712 Victory Blvd, Glendale, CA 91201",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "Closed",
+      "Tuesday": "5:00 PM – 10:00 PM",
+      "Wednesday": "5:00 PM – 10:00 PM",
+      "Thursday": "11:30 AM – 2:30 PM, 5:00 PM – 10:00 PM",
+      "Friday": "11:30 AM – 2:30 PM, 5:00 PM – 11:00 PM",
+      "Saturday": "5:00 PM – 11:00 PM",
+      "Sunday": "5:00 PM – 10:00 PM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Sushi Nishi Ya — Counter sushi on Victory Blvd, Glendale",
+    "description": "A counter-style sushi shop on Victory Boulevard, Glendale. Edomae nigiri, omakase, sashimi, hand rolls. Twelve-seat bar. Reservations recommended.",
+    "keywords": [
+      "Glendale sushi",
+      "Victory Blvd sushi",
+      "Sushi Nishi Ya",
+      "Glendale omakase",
+      "Glendale nigiri counter"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#134E4A",
+    "accentColor": "#FB7185",
+    "fontFamily": "cormorant-montserrat-sawarabimincho"
+  },
+  "designSystem": {
+    "searchQuery": "sushi japanese omakase elegant pristine wabi sabi muted stone",
+    "styleName": "Wabi-Sabi Counter (deep teal + sakura + pearl)",
+    "pattern": "Hero split + Menu list + Reviews quote cards + CTA",
+    "palette": {
+      "primary": "#134E4A",
+      "secondary": "#042F2E",
+      "cta": "#134E4A",
+      "accent": "#FB7185",
+      "background": "#FAFAF7",
+      "text": "#1C1917",
+      "muted": "#78716C",
+      "border": "#042F2E",
+      "surface": "#FBCFE8"
+    },
+    "typography": {
+      "heading": "Cormorant",
+      "body": "Montserrat",
+      "label": "Sawarabi Mincho",
+      "mood": "Cormorant italic display luxury serif, Montserrat geometric body, Sawarabi Mincho Japanese accent — wabi-sabi minimal, deep teal + sakura pink + warm pearl + coral, distinct from Yaki's traditional Japanese feel"
+    },
+    "moves": [
+      "Cormorant italic for elegant accent words (The, Come, From) — luxury Japanese restaurant feel, first Cormorant in build",
+      "Sawarabi Mincho for Japanese kanji labels — bilingual Japanese restaurant authenticity, different from Noto Serif JP used in Yaki's",
+      "Deep teal + sakura pink palette — wabi-sabi modern Japanese, distinct from Yaki's ink+hinomaru traditional",
+      "Floating sakura-pink badge on hero photo with kanji '本日のおすすめ' — restaurant detail callout",
+      "Coral accent dots and kanji circle badge — minimalist Japanese punctuation",
+      "Italic quote marks (「) opening reviews — Japanese typesetting",
+      "Saturated-down photos (filter: saturate(0.92)) — wabi-sabi muted aesthetic",
+      "Sakura pink reviews section — soft mid-section break"
+    ]
   }
 }
